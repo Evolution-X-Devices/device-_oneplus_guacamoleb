@@ -16,6 +16,7 @@ vendor/lib64/hw/audio.primary.msmnile.so
 
 # Camera
 vendor/bin/hw/vendor.oneplus.camera.CameraHIDL@1.0-service
+vendor/lib/vendor.oneplus.camera.CameraMDMHIDL@1.0.so
 vendor/bin/vl53l1_daemon_main
 vendor/etc/camera/OnePlus_7tPro_Golden_1.bin
 vendor/etc/camera/OnePlus_7tPro_Golden_2.bin
@@ -264,6 +265,7 @@ vendor/lib64/libtriplecam_video_optical_zoom.so
 vendor/lib64/libvidhance.so
 vendor/lib64/libvl53l1_daemon.so
 vendor/lib64/sensors.hal.tof.so
+vendor/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0.so
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf

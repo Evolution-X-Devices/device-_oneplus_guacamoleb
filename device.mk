@@ -25,8 +25,7 @@ PRODUCT_PACKAGES += \
 
 # Notch hide
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
-    NotchBarKiller
+    NoCutoutOverlay
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
